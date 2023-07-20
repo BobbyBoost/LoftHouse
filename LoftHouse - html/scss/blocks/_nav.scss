@@ -1,0 +1,9 @@
+.nav {
+    font-size: 14px;
+    letter-spacing: 0.05em;
+}
+
+.nav-list-left, .nav-list-right {
+    display: flex;
+    column-gap: 40px;
+}
